@@ -9,8 +9,6 @@
 - Test a skill's **triggering** and **behaviour** independently
 - Compare against a no-skill baseline to see if the skill has any value
 - Write graders and use pass rates instead of single runs
-- [ ] Use an LLM as a judge, and calibrate it before trusting it
-- [ ] Gate CI on a pass-rate threshold
 
 ---
 
